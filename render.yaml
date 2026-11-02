@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: nexus-menu
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: 
